@@ -4,7 +4,7 @@ var username=document.getElementById("username").value;
 var password=document.getElementById("password").value;
 if(username=="Jeakith", "Nauris" && password=="Silkans")
 {
-window.open("frontpage.html")
+open("frontpage.html")
 }
 else{
     alert("Login Failed")
