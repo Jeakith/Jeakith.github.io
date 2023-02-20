@@ -2,9 +2,9 @@ function validate()
 {
 var username=document.getElementById("username").value;
 var password=document.getElementById("password").value;
-if(username=="Jeakith" && password=="PreiliTop123")
+if(username=="Jeakith", "Nauris" && password=="Silkans")
 {
-window.open("index.html")
+window.open("frontpage.html")
 }
 else{
     alert("Login Failed")
